@@ -1,0 +1,16 @@
+{
+  "name": "content-pipeline-engine",
+  "version": "1.0.0",
+  "description": "Content Pipeline Engine Challenge",
+  "main": "src/pipeline.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": false
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

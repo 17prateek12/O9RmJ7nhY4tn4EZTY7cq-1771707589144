@@ -1,0 +1,10 @@
+node_modules/
+.nextdev/
+.cursor/
+.claude/
+.github/
+.vscode/
+.codex/
+AGENTS.md
+CLAUDE.md
+TAGS.md

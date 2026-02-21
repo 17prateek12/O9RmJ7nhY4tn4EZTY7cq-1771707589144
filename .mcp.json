@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "nextdev-cursor-extension": {
+      "command": "node",
+      "args": [
+        "c:\\Users\\17pra\\AppData\\Local\\Temp\\nextdev-interviews\\O9RmJ7nhY4tn4EZTY7cq-1771707589144\\.nextdev\\mcp-bridge.cjs"
+      ]
+    }
+  }
+}
